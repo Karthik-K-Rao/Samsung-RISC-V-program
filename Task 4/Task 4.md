@@ -23,6 +23,10 @@ This project involves the simulation and analysis of a simplified RV32I processo
 3. *Waveform Analysis*:
    - Output signals include control, data, and clock signals.
    - Observed using GTKWave to verify correctness and debug issues.
+  
+## Waveform Visualization
+
+![Waveform Visualization](file:///C:/Users/kkrka/OneDrive/Documents/RISC-V/Tasks/Task%203/VirtualBox_vsdworkshop_24_01_2025_20_29_10.png)
 
 ## Workflow
 1. *Design and Implementation*:

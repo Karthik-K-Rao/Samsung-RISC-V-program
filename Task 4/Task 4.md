@@ -26,7 +26,7 @@ This project involves the simulation and analysis of a simplified RV32I processo
   
 ## Waveform Visualization
 
-![Waveform Visualization](file:///C:/Users/kkrka/OneDrive/Documents/RISC-V/Tasks/Task%203/VirtualBox_vsdworkshop_24_01_2025_20_29_10.png)
+![Waveform Visualization](VirtualBox_vsdworkshop_24_01_2025_20_29_10.png)
 
 ## Workflow
 1. *Design and Implementation*:
